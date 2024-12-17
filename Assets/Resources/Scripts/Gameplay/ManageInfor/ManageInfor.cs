@@ -157,11 +157,6 @@ public class ManageInfor : MonoBehaviour
     public static float MageTowerDamagePerLevel = 1.25f;
 
 
-
-
-
-
-
     public static void Reset()
     {
         // Gold.TotalGold = 100;

@@ -10,7 +10,7 @@ public class PlayerAssetManager : MonoBehaviour
     void Start()
     {
         //gold from default
-        Gold = 0;
+        Gold = 100;
 
         //default level for 3 defender unit
         UnitLevel.Add("archery", 1);

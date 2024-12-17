@@ -36,7 +36,6 @@ public class GameClickManager : MonoBehaviour
 
 
                 //Neu (target.CompareTag("Attacker") || target.CompareTag("Defender")) thì moii xu lý( cái này sau ae code hoàn chinh bo sung sau )
-                // Kiem tra neu ?oi t??ng ?a ?uoc ch?n tr??c ?ó và không phai là ?oi t??ng hi?n t?i
                 if (selectedTarget != null && selectedTarget != target)
                 {
                     // An thanh máu cua doi tuong trc dó

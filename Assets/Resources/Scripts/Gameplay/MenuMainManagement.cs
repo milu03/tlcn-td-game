@@ -109,7 +109,6 @@ public class MenuMainManagement : IntEventInvoker
     }
     public void ExitSettingButton2()
     {
-        // Task 34 : Xóa toàn b? d? li?u and new game 
         SceneManager.LoadScene("Menu");
     }
     public void RestGame()
